@@ -1,7 +1,7 @@
     var rev = "fwd";
 
     function titlebar(val) {
-        var msg = "contact poisox#0001 to buy";
+        var msg = "Zenixa#9999 Runs You";
         var res = " ";
         var speed = 100;
         var pos = val;
