@@ -1,7 +1,7 @@
     var rev = "fwd";
 
     function titlebar(val) {
-        var msg = "Zenixa#9999 Runs You";
+        var msg = "ZenixaV3#1996 ;)";
         var res = " ";
         var speed = 100;
         var pos = val;
